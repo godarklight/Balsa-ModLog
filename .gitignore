@@ -1,0 +1,7 @@
+*.userprefs
+UserPrefs.xml
+External/Managed/*.dll
+External/Managed/*.mdb
+[Bb]in/
+[Oo]bj/
+.vscode/launch.json
