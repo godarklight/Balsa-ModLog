@@ -32,7 +32,7 @@ namespace DarkLog
         {
             while (messages.TryDequeue(out string message))
             {
-                UnityEngine.Debug.Log(PrependText(message));
+                UnityEngine.Debug.Log(message);
             }
         }
 
