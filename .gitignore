@@ -1,7 +1,6 @@
-*.userprefs
-UserPrefs.xml
-External/Managed/*.dll
-External/Managed/*.mdb
-[Bb]in/
-[Oo]bj/
-.vscode/launch.json
+.vs
+.vscode
+obj
+bin
+External/Managed
+*.user

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Concurrent;
 
-namespace ModLog
+namespace DarkLog
 {
     public class ModLog
     {
